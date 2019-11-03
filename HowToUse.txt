@@ -1,0 +1,7 @@
+Program KColoringOfGraph by mìl dostat v argumentech jméno souboru (obsahujícího reprezentaci grafu)
+a pøirozené èíslo k (reprezentující poèet barev). Na svùj standartní výstup program vypíše CNF formuli
+splnitelnnou právì tehdy, když je graf k-obarvitelný. Tento výstup je tøeba pøedat SAT solveru.
+Výstup SAt solveru je tøeba uložit do souboru (pouze øádek obsahující splòující ohodnocení formule)
+a název souboru pøedat jako první argument programu ResultInterpreter. Jako druhý argument program 
+požaduje èíslo k. ResultInterpreter vypíše na svùj standartní výstup k øádek, kde na i=té øádce bude seznam
+vrcholù obarvených barvou i. 

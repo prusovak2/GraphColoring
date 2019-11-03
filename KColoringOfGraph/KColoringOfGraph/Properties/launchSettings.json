@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KColoringOfGraph": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\MFF\\ZS_2019\\c#_repos\\TestTextFiles\\GraphColoring.txt 4"
+    }
+  }
+}

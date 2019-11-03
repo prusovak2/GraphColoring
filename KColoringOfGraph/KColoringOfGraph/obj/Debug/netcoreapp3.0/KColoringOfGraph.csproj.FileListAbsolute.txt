@@ -1,0 +1,11 @@
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\bin\Debug\netcoreapp3.0\KColoringOfGraph.exe
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\bin\Debug\netcoreapp3.0\KColoringOfGraph.deps.json
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\bin\Debug\netcoreapp3.0\KColoringOfGraph.runtimeconfig.json
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\bin\Debug\netcoreapp3.0\KColoringOfGraph.runtimeconfig.dev.json
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\bin\Debug\netcoreapp3.0\KColoringOfGraph.dll
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\bin\Debug\netcoreapp3.0\KColoringOfGraph.pdb
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\obj\Debug\netcoreapp3.0\KColoringOfGraph.csprojAssemblyReference.cache
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\obj\Debug\netcoreapp3.0\KColoringOfGraph.AssemblyInfoInputs.cache
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\obj\Debug\netcoreapp3.0\KColoringOfGraph.AssemblyInfo.cs
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\obj\Debug\netcoreapp3.0\KColoringOfGraph.dll
+D:\MFF\ZS_2019\c#_repos\KColoringOfGraph\KColoringOfGraph\obj\Debug\netcoreapp3.0\KColoringOfGraph.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Resulnterpreter": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\MFF\\ZS_2019\\c#_repos\\TestTextFiles\\Satoutput.txt 4"
+    }
+  }
+}

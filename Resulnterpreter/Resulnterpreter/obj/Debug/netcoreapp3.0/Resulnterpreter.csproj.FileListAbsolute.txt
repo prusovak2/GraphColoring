@@ -1,0 +1,11 @@
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\bin\Debug\netcoreapp3.0\Resulnterpreter.exe
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\bin\Debug\netcoreapp3.0\Resulnterpreter.deps.json
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\bin\Debug\netcoreapp3.0\Resulnterpreter.runtimeconfig.json
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\bin\Debug\netcoreapp3.0\Resulnterpreter.runtimeconfig.dev.json
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\bin\Debug\netcoreapp3.0\Resulnterpreter.dll
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\bin\Debug\netcoreapp3.0\Resulnterpreter.pdb
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\obj\Debug\netcoreapp3.0\Resulnterpreter.csprojAssemblyReference.cache
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\obj\Debug\netcoreapp3.0\Resulnterpreter.AssemblyInfoInputs.cache
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\obj\Debug\netcoreapp3.0\Resulnterpreter.AssemblyInfo.cs
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\obj\Debug\netcoreapp3.0\Resulnterpreter.dll
+D:\MFF\ZS_2019\c#_repos\Resulnterpreter\Resulnterpreter\obj\Debug\netcoreapp3.0\Resulnterpreter.pdb
